@@ -1,1 +1,1 @@
-# CS360Projects
+# CS340Projects
